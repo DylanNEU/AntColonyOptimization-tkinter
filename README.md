@@ -9,6 +9,9 @@
 
 蚁群算法解决中国省会城市的TSP问题，利用tkinter绘制了实时的路径显示，具体效果可以在下方运行结果中看到
 
+截止本文档完成时，算法最优结果为 **155.55957199915835 经纬距离**
+![img.png](assets/img.png)
+
 author：[@DylanNEU](https://github.com/DylanNEU)
 
 ### 运行方法
